@@ -1,0 +1,6 @@
+C:\Users\congar\source\repos\MQTTApp1\MessageDto\bin\Debug\MessageDto.dll
+C:\Users\congar\source\repos\MQTTApp1\MessageDto\bin\Debug\MessageDto.pdb
+C:\Users\congar\source\repos\MQTTApp1\MessageDto\obj\Debug\MessageDto.csproj.AssemblyReference.cache
+C:\Users\congar\source\repos\MQTTApp1\MessageDto\obj\Debug\MessageDto.csproj.CoreCompileInputs.cache
+C:\Users\congar\source\repos\MQTTApp1\MessageDto\obj\Debug\MessageDto.dll
+C:\Users\congar\source\repos\MQTTApp1\MessageDto\obj\Debug\MessageDto.pdb
