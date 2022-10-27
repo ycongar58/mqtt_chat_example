@@ -5,17 +5,17 @@
     <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
     <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
     <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
-    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\congar\.nuget\packages\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages;C:\Program Files (x86)\Microsoft\Xamarin\NuGet\</NuGetPackageFolders>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\yusuf\.nuget\packages\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages;C:\Program Files (x86)\Progress\ToolboxNuGetPackages</NuGetPackageFolders>
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
     <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.3.0</NuGetToolVersion>
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <SourceRoot Include="C:\Users\congar\.nuget\packages\" />
+    <SourceRoot Include="C:\Users\yusuf\.nuget\packages\" />
     <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
-    <SourceRoot Include="C:\Program Files (x86)\Microsoft\Xamarin\NuGet\" />
+    <SourceRoot Include="C:\Program Files (x86)\Progress\ToolboxNuGetPackages\" />
   </ItemGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <PkgMicrosoft_CodeAnalysis_Analyzers Condition=" '$(PkgMicrosoft_CodeAnalysis_Analyzers)' == '' ">C:\Users\congar\.nuget\packages\microsoft.codeanalysis.analyzers\1.1.0</PkgMicrosoft_CodeAnalysis_Analyzers>
-    <PkgMvvmLight Condition=" '$(PkgMvvmLight)' == '' ">C:\Users\congar\.nuget\packages\mvvmlight\5.4.1.1</PkgMvvmLight>
+    <PkgMicrosoft_CodeAnalysis_Analyzers Condition=" '$(PkgMicrosoft_CodeAnalysis_Analyzers)' == '' ">C:\Users\yusuf\.nuget\packages\microsoft.codeanalysis.analyzers\1.1.0</PkgMicrosoft_CodeAnalysis_Analyzers>
+    <PkgMvvmLight Condition=" '$(PkgMvvmLight)' == '' ">C:\Users\yusuf\.nuget\packages\mvvmlight\5.4.1.1</PkgMvvmLight>
   </PropertyGroup>
 </Project>

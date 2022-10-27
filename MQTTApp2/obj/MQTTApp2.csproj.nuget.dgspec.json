@@ -1,14 +1,14 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\congar\\source\\repos\\MQTTApp1\\MQTTApp2\\MQTTApp2.csproj": {}
+    "C:\\Users\\yusuf\\source\\repos\\mqtt_chat_example\\MQTTApp2\\MQTTApp2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\congar\\source\\repos\\MQTTApp1\\MessageDto\\MessageDto.csproj": {
+    "C:\\Users\\yusuf\\source\\repos\\mqtt_chat_example\\MessageDto\\MessageDto.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\congar\\source\\repos\\MQTTApp1\\MessageDto\\MessageDto.csproj",
+        "projectUniqueName": "C:\\Users\\yusuf\\source\\repos\\mqtt_chat_example\\MessageDto\\MessageDto.csproj",
         "projectName": "MessageDto",
-        "projectPath": "C:\\Users\\congar\\source\\repos\\MQTTApp1\\MessageDto\\MessageDto.csproj",
+        "projectPath": "C:\\Users\\yusuf\\source\\repos\\mqtt_chat_example\\MessageDto\\MessageDto.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
@@ -19,40 +19,42 @@
         "net472": {}
       }
     },
-    "C:\\Users\\congar\\source\\repos\\MQTTApp1\\MQTTApp2\\MQTTApp2.csproj": {
+    "C:\\Users\\yusuf\\source\\repos\\mqtt_chat_example\\MQTTApp2\\MQTTApp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\congar\\source\\repos\\MQTTApp1\\MQTTApp2\\MQTTApp2.csproj",
+        "projectUniqueName": "C:\\Users\\yusuf\\source\\repos\\mqtt_chat_example\\MQTTApp2\\MQTTApp2.csproj",
         "projectName": "MQTTApp2",
-        "projectPath": "C:\\Users\\congar\\source\\repos\\MQTTApp1\\MQTTApp2\\MQTTApp2.csproj",
-        "packagesPath": "C:\\Users\\congar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\congar\\source\\repos\\MQTTApp1\\MQTTApp2\\obj\\",
+        "projectPath": "C:\\Users\\yusuf\\source\\repos\\mqtt_chat_example\\MQTTApp2\\MQTTApp2.csproj",
+        "packagesPath": "C:\\Users\\yusuf\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yusuf\\source\\repos\\mqtt_chat_example\\MQTTApp2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\congar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yusuf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WinForms.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WPF.config"
         ],
         "originalTargetFrameworks": [
           "net6.0-windows"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "R:\\Dev\\Base\\Elt.ExternalLibs.Source\\CustomerNuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\congar\\source\\repos\\MQTTApp1\\MessageDto\\MessageDto.csproj": {
-                "projectPath": "C:\\Users\\congar\\source\\repos\\MQTTApp1\\MessageDto\\MessageDto.csproj"
+              "C:\\Users\\yusuf\\source\\repos\\mqtt_chat_example\\MessageDto\\MessageDto.csproj": {
+                "projectPath": "C:\\Users\\yusuf\\source\\repos\\mqtt_chat_example\\MessageDto\\MessageDto.csproj"
               }
             }
           }

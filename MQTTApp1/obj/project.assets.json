@@ -7418,44 +7418,46 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\congar\\.nuget\\packages\\": {},
+    "C:\\Users\\yusuf\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\congar\\source\\repos\\MQTTApp1\\MQTTApp1\\MQTTApp1.csproj",
+      "projectUniqueName": "C:\\Users\\yusuf\\source\\repos\\mqtt_chat_example\\MQTTApp1\\MQTTApp1.csproj",
       "projectName": "MQTTApp1",
-      "projectPath": "C:\\Users\\congar\\source\\repos\\MQTTApp1\\MQTTApp1\\MQTTApp1.csproj",
-      "packagesPath": "C:\\Users\\congar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\congar\\source\\repos\\MQTTApp1\\MQTTApp1\\obj\\",
+      "projectPath": "C:\\Users\\yusuf\\source\\repos\\mqtt_chat_example\\MQTTApp1\\MQTTApp1.csproj",
+      "packagesPath": "C:\\Users\\yusuf\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\yusuf\\source\\repos\\mqtt_chat_example\\MQTTApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\congar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\yusuf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WinForms.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WPF.config"
       ],
       "originalTargetFrameworks": [
         "net6.0-windows"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "R:\\Dev\\Base\\Elt.ExternalLibs.Source\\CustomerNuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\congar\\source\\repos\\MQTTApp1\\MessageDto\\MessageDto.csproj": {
-              "projectPath": "C:\\Users\\congar\\source\\repos\\MQTTApp1\\MessageDto\\MessageDto.csproj"
+            "C:\\Users\\yusuf\\source\\repos\\mqtt_chat_example\\MessageDto\\MessageDto.csproj": {
+              "projectPath": "C:\\Users\\yusuf\\source\\repos\\mqtt_chat_example\\MessageDto\\MessageDto.csproj"
             }
           }
         }
@@ -7511,7 +7513,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'M2Mqtt 4.3.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "message": "Das Paket \"M2Mqtt 4.3.0\" wurde nicht mit dem Projektzielframework \"net6.0-windows7.0\", sondern mit \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" wiederhergestellt. Dieses Paket ist mit Ihrem Projekt möglicherweise nicht vollständig kompatibel.",
       "libraryId": "M2Mqtt",
       "targetGraphs": [
         "net6.0-windows7.0"
@@ -7521,7 +7523,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'MvvmLightLibs 5.4.1.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "message": "Das Paket \"MvvmLightLibs 5.4.1.1\" wurde nicht mit dem Projektzielframework \"net6.0-windows7.0\", sondern mit \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" wiederhergestellt. Dieses Paket ist mit Ihrem Projekt möglicherweise nicht vollständig kompatibel.",
       "libraryId": "MvvmLightLibs",
       "targetGraphs": [
         "net6.0-windows7.0"
